@@ -116,6 +116,4 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
 
-Developed by Venkatesh Gawade
